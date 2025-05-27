@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: 'You write performant, well-documented, excellent code. '
+  - role: user
+    content: CAn you crate an NUXT project with Google Auth
+model: openai/gpt-4o
